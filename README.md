@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roygarima1518&label=Profile%20views&color=0e75b6&style=flat" alt="roygarima1518" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roygarima1518" alt="roygarima1518" /></a> </p>
+
 - 🌱 I’m currently learning **Java, Webdev**
 
 - 💬 Ask me about **Web Development**
