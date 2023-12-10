@@ -1,4 +1,4 @@
-! [logo] (https://github.com/royGarima1518/royGarima1518/blob/main/Banner.png)
+![logo](https://github.com/royGarima1518/royGarima1518/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Garima Roy</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
